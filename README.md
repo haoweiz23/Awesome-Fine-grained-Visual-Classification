@@ -13,6 +13,7 @@
 
 ## Papers
 ### 2021
+- Counterfactual Attention Learning for Fine-Grained Visual Categorization and Re-identification. **(ICCV, 2021)** [[paper]](https://arxiv.org/abs/2108.08728 "[paper]") [[code]](https://github.com/raoyongming/CAL "[code]")
 - TransFG: A Transformer Architecture for Fine-grained Recognition.  **(arxiv, 2021)**[[paper]](https://arxiv.org/abs/2103.07976 "[paper]")[[code]](https://github.com/TACJu/TransFG "[code]")
 - Graph-Based High-Order Relation Discovery for Fine-Grained Recognition. **(CVPR, 2021)**[[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_Graph-Based_High-Order_Relation_Discovery_for_Fine-Grained_Recognition_CVPR_2021_paper.pdf "[paper]")[code]
 - Your "Flamingo" is My "Bird": Fine-Grained, or Not **(CVPR, 2021)**[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chang_Your_Flamingo_is_My_Bird_Fine-Grained_or_Not_CVPR_2021_paper.pdf "paper")]
