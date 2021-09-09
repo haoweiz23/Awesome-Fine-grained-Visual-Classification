@@ -29,8 +29,7 @@
 - Attention Convolutional Binary Neural Tree forFine-Grained Visual Categorization **(CVPR, 2020)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ji_Attention_Convolutional_Binary_Neural_Tree_for_Fine-Grained_Visual_Categorization_CVPR_2020_paper.pdf "paper")]
 
 - Selective Sparse Sampling for Fine-grained Image Recognition [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Ding_Selective_Sparse_Sampling_for_Fine-Grained_Image_Recognition_ICCV_2019_paper.pdf "paper")]
-- Channel Interaction Networks for Fine-Grained Image Categorization **(AAAI, 2020)**
-- Learning Attentive Pairwise Interaction for Fine-Grained Classification **(AAAI, 2020)**
+- Channel Interaction Networks for Fine-Grained Image Categorization **(AAAI, 2020)** [[paper](https://arxiv.org/pdf/2003.05235.pdf "paper")]
 - Graph-propagation  based  Correlation  Learning  for  Weakly  Supervised  Fine-grained  Image  Classification **(AAAI, 2020)**
 - Filtration  and  Distillation:  Enhancing  Region  Attention  for  Fine-Grained  Visual  Categorization **(AAAI, 2020)** [[paper](https://www.aiide.org/ojs/index.php/AAAI/article/view/6822 "paper")]
 - Learning Attentive Pairwise Interaction for Fine-Grained Classification **(AAAI, 2020)** [[paper](https://arxiv.org/pdf/2002.10191.pdf "paper")]
