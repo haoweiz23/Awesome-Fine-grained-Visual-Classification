@@ -46,6 +46,10 @@
 - Multi-Attention Multi-Class Constraint forFine-grained Image Recognition **(ECCV, 2018)**[[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ming_Sun_Multi-Attention_Multi-Class_Constraint_ECCV_2018_paper.pdf "paper")]
 - Pairwise Confusion for Fine-Grained Visual Classification **(ECCV, 2018)** [[paper](https://arxiv.org/pdf/1705.08016 "paper")]
 - Weakly Supervised Bilinear Attention Network for Fine-Grained Visual Classification **(unknown, 2018)**  [[paper](https://link.zhihu.com/?target=https%3A//arxiv.org/pdf/1808.02152.pdf "paper")]
+- Learning to Navigate for Fine-grained Classification **(ECCV, 2018)** [[paper]( https://arxiv.org/abs/1809.00287 "paper")]
+
+### 2017
+- Look Closer to See Better: Recurrent Attention Convolutional Neural Networkfor Fine-grained Image Recognition  **(CVPR, 2017)** [[paper](http://openaccess.thecvf.com/content_cvpr_2017/html/Fu_Look_Closer_to_CVPR_2017_paper.html "paper")]
 
 ------------
 
@@ -57,7 +61,7 @@
 - [ACCV 2020 Webly-Supervised Fine-Grained Recognition Challenge](https://www.cvmart.net/race/9917/base "ACCV 2020 Webly-Supervised Fine-Grained Recognition Challenge")
 
 ## Datasets
-- CUB-200-2011
+- [CUB-200-2011](http://www.vision.caltech.edu/visipedia-data/CUB-200-2011/CUB_200_2011.tgz)
 - Stanford Dogs
 - Stanford Cars
 - FGVC Aircrafts
