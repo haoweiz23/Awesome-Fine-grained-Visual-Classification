@@ -13,8 +13,11 @@
 
 ## Papers
 ### 2021
+- **[FFVT]** Feature Fusion Vision Transformer. **(arxiv, 2021)** [[paper](https://arxiv.org/pdf/2107.02341v2.pdf)]
+- **[TPSKG]** Transformer with Peak Suppression and Knowledge Guidance. **(arxiv, 2021)** [[paper](https://arxiv.org/pdf/2107.06538v1.pdf)]
+- **[RAMS-Trans]** RAMS-Trans: Recurrent Attention Multi-scale Transformer for Fine-grained Image Recognition.  **(arxiv, 2021)** [[paper](https://arxiv.org/pdf/2107.08192v1.pdf)]
 - Counterfactual Attention Learning for Fine-Grained Visual Categorization and Re-identification. **(ICCV, 2021)** [[paper]](https://arxiv.org/abs/2108.08728 "[paper]") [[code]](https://github.com/raoyongming/CAL "[code]")
-- TransFG: A Transformer Architecture for Fine-grained Recognition.  **(arxiv, 2021)**[[paper]](https://arxiv.org/abs/2103.07976 "[paper]")[[code]](https://github.com/TACJu/TransFG "[code]")
+- **[TransFG]** TransFG: A Transformer Architecture for Fine-grained Recognition.  **(arxiv, 2021)**[[paper]](https://arxiv.org/abs/2103.07976 "[paper]")[[code]](https://github.com/TACJu/TransFG "[code]")
 - Graph-Based High-Order Relation Discovery for Fine-Grained Recognition. **(CVPR, 2021)**[[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_Graph-Based_High-Order_Relation_Discovery_for_Fine-Grained_Recognition_CVPR_2021_paper.pdf "[paper]")[code]
 - Your "Flamingo" is My "Bird": Fine-Grained, or Not **(CVPR, 2021)**[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chang_Your_Flamingo_is_My_Bird_Fine-Grained_or_Not_CVPR_2021_paper.pdf "paper")]
 - Discrimination-Aware Mechanism for Fine-Grained Representation Learning **(CVPR, 2021)**[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_Discrimination-Aware_Mechanism_for_Fine-Grained_Representation_Learning_CVPR_2021_paper.pdf "paper")]
@@ -24,35 +27,69 @@
 
 ### 2020
 - Interpretable and Accurate Fine-grained Recognition via Region Grouping  **(CVPR, 2020)** [[paper](http://arxiv.org/abs/2005.10411 "paper")]
-- Look-into-Object: Self-supervised Structure Modeling for Object Recognition **(CVPR, 2020)** [[paper](https://arxiv.org/pdf/2003.14142 "paper")][[code](https://www.baidu.com/link?url=vwpK4nq7ripk3IHigNN6WPYY3Ceh7WWzt_lqAwjkInTwS4ULAVYTyGm7qf22Cghc&wd=&eqid=de1ec9bc00016df000000003610be574 "code")]
+- **[LIO]** Look-into-Object: Self-supervised Structure Modeling for Object Recognition **(CVPR, 2020)** [[paper](https://arxiv.org/pdf/2003.14142 "paper")][[code](https://www.baidu.com/link?url=vwpK4nq7ripk3IHigNN6WPYY3Ceh7WWzt_lqAwjkInTwS4ULAVYTyGm7qf22Cghc&wd=&eqid=de1ec9bc00016df000000003610be574 "code")]
 - Weakly Supervised Fine-Grained Image Classification via Guassian Mixture Model Oriented Discriminative Learning [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Weakly_Supervised_Fine-Grained_Image_Classification_via_Guassian_Mixture_Model_Oriented_CVPR_2020_paper.pdf "paper")] [[video](https://www.youtube.com/watch?v=RS0yKbKYSKY "video")]
-- Attention Convolutional Binary Neural Tree forFine-Grained Visual Categorization **(CVPR, 2020)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ji_Attention_Convolutional_Binary_Neural_Tree_for_Fine-Grained_Visual_Categorization_CVPR_2020_paper.pdf "paper")]
-
-- Selective Sparse Sampling for Fine-grained Image Recognition [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Ding_Selective_Sparse_Sampling_for_Fine-Grained_Image_Recognition_ICCV_2019_paper.pdf "paper")]
-- Channel Interaction Networks for Fine-Grained Image Categorization **(AAAI, 2020)** [[paper](https://arxiv.org/pdf/2003.05235.pdf "paper")]
+- Attention Convolutional Binary Neural Tree for Fine-Grained Visual Categorization **(CVPR, 2020)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ji_Attention_Convolutional_Binary_Neural_Tree_for_Fine-Grained_Visual_Categorization_CVPR_2020_paper.pdf "paper")][[code](https://isrc.iscas.ac.cn/gitlab/research/acnet "code")]
+- **[CIN]** Channel Interaction Networks for Fine-Grained Image Categorization **(AAAI, 2020)** [[paper](https://arxiv.org/pdf/2003.05235.pdf "paper")]
 - Graph-propagation  based  Correlation  Learning  for  Weakly  Supervised  Fine-grained  Image  Classification **(AAAI, 2020)**
-- Filtration  and  Distillation:  Enhancing  Region  Attention  for  Fine-Grained  Visual  Categorization **(AAAI, 2020)** [[paper](https://www.aiide.org/ojs/index.php/AAAI/article/view/6822 "paper")]
-- Learning Attentive Pairwise Interaction for Fine-Grained Classification **(AAAI, 2020)** [[paper](https://arxiv.org/pdf/2002.10191.pdf "paper")]
-- Fine-Grained Visual Classification via Progressive Multi-Granularity Training of Jigsaw Patches **(ECCV, 2020)**[[paper](https://arxiv.org/pdf/2003.03836.pdf "paper")]
-- The Devil is in the Channels Mutual-Channel Lossfor Fine-Grained Image Classification **(TIP, 2020)**  [[paper](https://arxiv.org/pdf/2002.04264.pdf "paper")] [[code](https://github.com/PRIS-CV/Mutual-Channel-Loss "code")]
+- **[FDL]** Filtration  and  Distillation:  Enhancing  Region  Attention  for  Fine-Grained  Visual  Categorization **(AAAI, 2020)** [[paper](https://www.aiide.org/ojs/index.php/AAAI/article/view/6822 "paper")]
+- **[API-Net]** Learning Attentive Pairwise Interaction for Fine-Grained Classification **(AAAI, 2020)** [[paper](https://arxiv.org/pdf/2002.10191.pdf "paper")]
+- **[PMG]** Fine-Grained Visual Classification via Progressive Multi-Granularity Training of Jigsaw Patches **(ECCV, 2020)**[[paper](https://arxiv.org/pdf/2003.03836.pdf "paper")]
+- **[MC-loss]** The Devil is in the Channels Mutual-Channel Loss for Fine-Grained Image Classification **(TIP, 2020)**  [[paper](https://arxiv.org/pdf/2002.04264.pdf "paper")] [[code](https://github.com/PRIS-CV/Mutual-Channel-Loss "code")]
 ### 2019
-- Looking for the Devil in the Details: Learning Trilinear Attention Sampling Network for Fine-grained Image Recognition **(CVPR, 2019)** [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zheng_Looking_for_the_Devil_in_the_Details_Learning_Trilinear_Attention_CVPR_2019_paper.pdf "paper")]
-- Weakly Supervised Complementary Parts Models for Fine-GrainedImage Classification from the Bottom Up **(CVPR, 2019)**[[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ge_Weakly_Supervised_Complementary_Parts_Models_for_Fine-Grained_Image_Classification_From_CVPR_2019_paper.pdf "paper")]
-- Cross-X Learning for Fine-Grained Visual Categorization  **(ICCV, 2019)** [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Luo_Cross-X_Learning_for_Fine-Grained_Visual_Categorization_ICCV_2019_paper.pdf "paper")]
-- Destruction and Construction Learning for Fine-grained Image Recognition **(CVPR, 2019)** [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Destruction_and_Construction_Learning_for_Fine-Grained_Image_Recognition_CVPR_2019_paper.pdf "paper")]
-- Selective Sparse Sampling for Fine-grained Image Recognition  **(ICCV, 2019)** [[paper](https://link.zhihu.com/?target=http%3A//openaccess.thecvf.com/content_ICCV_2019/papers/Ding_Selective_Sparse_Sampling_for_Fine-Grained_Image_Recognition_ICCV_2019_paper.pdf "paper")][[code](https://github.com/Yao-DD/S3N "code")]
+- **[TASN]** Looking for the Devil in the Details: Learning Trilinear Attention Sampling Network for Fine-grained Image Recognition **(CVPR, 2019)** [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zheng_Looking_for_the_Devil_in_the_Details_Learning_Trilinear_Attention_CVPR_2019_paper.pdf "paper")]
+- Weakly Supervised Complementary Parts Models for Fine-Grained Image Classification from the Bottom Up **(CVPR, 2019)**[[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ge_Weakly_Supervised_Complementary_Parts_Models_for_Fine-Grained_Image_Classification_From_CVPR_2019_paper.pdf "paper")]
+- **[Cross-X]** Cross-X Learning for Fine-Grained Visual Categorization  **(ICCV, 2019)** [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Luo_Cross-X_Learning_for_Fine-Grained_Visual_Categorization_ICCV_2019_paper.pdf "paper")]
+- **[DCL]** Destruction and Construction Learning for Fine-grained Image Recognition **(CVPR, 2019)** [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Destruction_and_Construction_Learning_for_Fine-Grained_Image_Recognition_CVPR_2019_paper.pdf "paper")]
+- **[S3N]** Selective Sparse Sampling for Fine-grained Image Recognition  **(ICCV, 2019)** [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Ding_Selective_Sparse_Sampling_for_Fine-Grained_Image_Recognition_ICCV_2019_paper.pdf "paper")](https://github.com/Yao-DD/S3N "code")]
+-  **[MGE-CNN]** Learning a Mixture of Granularity-Specific Experts for Fine-GrainedCategorization   **(ICCV, 2019)**[[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Learning_a_Mixture_of_Granularity-Specific_Experts_for_Fine-Grained_Categorization_ICCV_2019_paper.pdf "paper")]
 
 ### 2018
-- Multi-Attention Multi-Class Constraint forFine-grained Image Recognition **(ECCV, 2018)**[[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ming_Sun_Multi-Attention_Multi-Class_Constraint_ECCV_2018_paper.pdf "paper")]
-- Pairwise Confusion for Fine-Grained Visual Classification **(ECCV, 2018)** [[paper](https://arxiv.org/pdf/1705.08016 "paper")]
-- Weakly Supervised Bilinear Attention Network for Fine-Grained Visual Classification **(unknown, 2018)**  [[paper](https://link.zhihu.com/?target=https%3A//arxiv.org/pdf/1808.02152.pdf "paper")]
-- Learning to Navigate for Fine-grained Classification **(ECCV, 2018)** [[paper]( https://arxiv.org/abs/1809.00287 "paper")] [[code](https://github.com/yangze0930/NTS-Net)]
+- **[MAMC]**  Multi-Attention Multi-Class Constraint forFine-grained Image Recognition **(ECCV, 2018)**[[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ming_Sun_Multi-Attention_Multi-Class_Constraint_ECCV_2018_paper.pdf "paper")]
+- **[PC]** Pairwise Confusion for Fine-Grained Visual Classification **(ECCV, 2018)** [[paper](https://arxiv.org/pdf/1705.08016 "paper")]
+- **[WSBAN]** Weakly Supervised Bilinear Attention Network for Fine-Grained Visual Classification **(unknown, 2018)**  [[paper](https://link.zhihu.com/?target=https%3A//arxiv.org/pdf/1808.02152.pdf "paper")]
+- **[NTS-Net]** Learning to Navigate for Fine-grained Classification **(ECCV, 2018)** [[paper]( https://arxiv.org/abs/1809.00287 "paper")] [[code](https://github.com/yangze0930/NTS-Net)]
 
 ### 2017
-- Look Closer to See Better: Recurrent Attention Convolutional Neural Networkfor Fine-grained Image Recognition  **(CVPR, 2017)** [[paper](http://openaccess.thecvf.com/content_cvpr_2017/html/Fu_Look_Closer_to_CVPR_2017_paper.html "paper")]
+- **[RA-CNN]** Look Closer to See Better: Recurrent Attention Convolutional Neural Networkfor Fine-grained Image Recognition  **(CVPR, 2017)** [[paper](http://openaccess.thecvf.com/content_cvpr_2017/html/Fu_Look_Closer_to_CVPR_2017_paper.html "paper")]
+- **[MA-CNN]** Learning Multi-Attention Convolutional Neural Network for Fine-GrainedImage Recognition  **(ICCV, 2017)** [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zheng_Learning_Multi-Attention_Convolutional_ICCV_2017_paper.pdf "paper")]
+------------
+## Surveys
+### By localize and rescale techniques
+- **[RA-CNN]** Look Closer to See Better: Recurrent Attention Convolutional Neural Networkfor Fine-grained Image Recognition  **(CVPR, 2017)** [[paper](http://openaccess.thecvf.com/content_cvpr_2017/html/Fu_Look_Closer_to_CVPR_2017_paper.html "paper")]
+- **[MA-CNN]** Learning Multi-Attention Convolutional Neural Network for Fine-GrainedImage Recognition  **(ICCV, 2017)** [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zheng_Learning_Multi-Attention_Convolutional_ICCV_2017_paper.pdf "paper")]
+- **[NTS-Net]** Learning to Navigate for Fine-grained Classification **(ECCV, 2018)** [[paper]( https://arxiv.org/abs/1809.00287 "paper")] [[code](https://github.com/yangze0930/NTS-Net)]
+- **[MGE-CNN]** Learning a Mixture of Granularity-Specific Experts for Fine-GrainedCategorization   **(ICCV, 2019)**[[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Learning_a_Mixture_of_Granularity-Specific_Experts_for_Fine-Grained_Categorization_ICCV_2019_paper.pdf "paper")]
+- **[FDL]** Filtration  and  Distillation:  Enhancing  Region  Attention  for  Fine-Grained  Visual  Categorization **(AAAI, 2020)** [[paper](https://www.aiide.org/ojs/index.php/AAAI/article/view/6822 "paper")]
+
+### By pair-wise metric learning
+- **[MAMC]**  Multi-Attention Multi-Class Constraint forFine-grained Image Recognition **(ECCV, 2018)**[[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ming_Sun_Multi-Attention_Multi-Class_Constraint_ECCV_2018_paper.pdf "paper")]
+- **[PC]** Pairwise Confusion for Fine-Grained Visual Classification **(ECCV, 2018)** [[paper](https://arxiv.org/pdf/1705.08016 "paper")]
+- **[CIN]** Channel Interaction Networks for Fine-Grained Image Categorization **(AAAI, 2020)** [[paper](https://arxiv.org/pdf/2003.05235.pdf "paper")]
+- Graph-propagation  based  Correlation  Learning  for  Weakly  Supervised  Fine-grained  Image  Classification **(AAAI, 2020)**
+- **[API-Net]** Learning Attentive Pairwise Interaction for Fine-Grained Classification **(AAAI, 2020)** [[paper](https://arxiv.org/pdf/2002.10191.pdf "paper")]
+
+### By Attention-based mertric learning
+- **[RA-CNN]** Look Closer to See Better: Recurrent Attention Convolutional Neural Networkfor Fine-grained Image Recognition  **(CVPR, 2017)** [[paper](http://openaccess.thecvf.com/content_cvpr_2017/html/Fu_Look_Closer_to_CVPR_2017_paper.html "paper")]
+- **[MA-CNN]** Learning Multi-Attention Convolutional Neural Network for Fine-GrainedImage Recognition  **(ICCV, 2017)** [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zheng_Learning_Multi-Attention_Convolutional_ICCV_2017_paper.pdf "paper")]
+- **[WSBAN]** Weakly Supervised Bilinear Attention Network for Fine-Grained Visual Classification **(unknown, 2018)**  [[paper](https://link.zhihu.com/?target=https%3A//arxiv.org/pdf/1808.02152.pdf "paper")]
+- **[Cross-X]** Cross-X Learning for Fine-Grained Visual Categorization  **(ICCV, 2019)** [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Luo_Cross-X_Learning_for_Fine-Grained_Visual_Categorization_ICCV_2019_paper.pdf "paper")]
+- **[TASN]** Looking for the Devil in the Details: Learning Trilinear Attention Sampling Network for Fine-grained Image Recognition **(CVPR, 2019)** [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zheng_Looking_for_the_Devil_in_the_Details_Learning_Trilinear_Attention_CVPR_2019_paper.pdf "paper")]
+- Attention Convolutional Binary Neural Tree for Fine-Grained Visual Categorization **(CVPR, 2020)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ji_Attention_Convolutional_Binary_Neural_Tree_for_Fine-Grained_Visual_Categorization_CVPR_2020_paper.pdf "paper")][[code](https://isrc.iscas.ac.cn/gitlab/research/acnet "code")]
+
+### Transformer-based methods
+- **[TransFG]** TransFG: A Transformer Architecture for Fine-grained Recognition.  **(arxiv, 2021)**[[paper]](https://arxiv.org/abs/2103.07976 "[paper]")[[code]](https://github.com/TACJu/TransFG "[code]")
+- **[FFVT]** Feature Fusion Vision Transformer. **(arxiv, 2021)** [[paper](https://arxiv.org/pdf/2107.02341v2.pdf)]
+- **[TPSKG]** Transformer with Peak Suppression and Knowledge Guidance. **(arxiv, 2021)** [[paper](https://arxiv.org/pdf/2107.06538v1.pdf)]
+- **[RAMS-Trans]** RAMS-Trans: Recurrent Attention Multi-scale Transformer for Fine-grained Image Recognition. **(arxiv, 2021)** [[paper](https://arxiv.org/pdf/2107.08192v1.pdf)]
+------------
+## Recognition leaderboard
+| Method  |  Backbone | CUB(%)  |  CAR(%)   |  AIR(%)   |   DOG(%)  |
+| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
+|   |   |   |   |   |   |
+
 
 ------------
-
 ## Workshops
 - [The Eight Workshop on Fine-Grained Visual Categorization](https://sites.google.com/view/fgvc8/papers "The Eight Workshop on Fine-Grained Visual Categorization")
 
