@@ -1,5 +1,7 @@
 # Awesome Fine-grained Visual Classification
 
+[TOC]
+
 ------------
 
 ## Survey
