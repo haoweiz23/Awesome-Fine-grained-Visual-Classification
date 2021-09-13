@@ -1,6 +1,6 @@
 # Awesome Fine-grained Visual Classification
 
-[toc]
+[TOC]
 
 ------------
 
