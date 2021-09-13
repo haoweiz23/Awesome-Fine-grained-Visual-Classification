@@ -62,11 +62,10 @@
 - **[MGE-CNN]** Learning a Mixture of Granularity-Specific Experts for Fine-GrainedCategorization   **(ICCV, 2019)**[[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Learning_a_Mixture_of_Granularity-Specific_Experts_for_Fine-Grained_Categorization_ICCV_2019_paper.pdf "paper")]
 - **[FDL]** Filtration  and  Distillation:  Enhancing  Region  Attention  for  Fine-Grained  Visual  Categorization **(AAAI, 2020)** [[paper](https://www.aiide.org/ojs/index.php/AAAI/article/view/6822 "paper")]
 
-### By pair-wise metric learning
+### By metric learning
 - **[MAMC]**  Multi-Attention Multi-Class Constraint forFine-grained Image Recognition **(ECCV, 2018)**[[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ming_Sun_Multi-Attention_Multi-Class_Constraint_ECCV_2018_paper.pdf "paper")]
 - **[PC]** Pairwise Confusion for Fine-Grained Visual Classification **(ECCV, 2018)** [[paper](https://arxiv.org/pdf/1705.08016 "paper")]
 - **[CIN]** Channel Interaction Networks for Fine-Grained Image Categorization **(AAAI, 2020)** [[paper](https://arxiv.org/pdf/2003.05235.pdf "paper")]
-- Graph-propagation  based  Correlation  Learning  for  Weakly  Supervised  Fine-grained  Image  Classification **(AAAI, 2020)**
 - **[API-Net]** Learning Attentive Pairwise Interaction for Fine-Grained Classification **(AAAI, 2020)** [[paper](https://arxiv.org/pdf/2002.10191.pdf "paper")]
 
 ### By Attention-based mertric learning
@@ -86,8 +85,28 @@
 ## Recognition leaderboard
 | Method  |  Backbone | CUB(%)  |  CAR(%)   |  AIR(%)   |   DOG(%)  |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
-|   |   |   |   |   |   |
+| RA-CNN  | VGG19  | 85.3  | 92.5  | 88.4  |  87.3 |
+| MA-CNN  | VGG19  | 86.5  | 92.8  | 89.9  |  - |
+| MAMC  | ResNet101  | 86.5  | 93.0  | -  |  85.2 |
+| PC  | DenseNet161  | 86.9  | 92.9  | 89.2  |  83.8 |
+| FDL  | DenseNet161  | 89.1  | 94.0  | -  |  84.9 |
+| NTS-Net  | ResNet50  | 87.5  | 93.9  | 91.4  | -|
+| Cross-X  | ResNet50  | 87.7  | 94.6  | -  | 88.9 |
+| S3N  | ResNet50  | 88.5  | 94.7  | 92.8  | -|
+| DCL  | ResNet50  | 87.8  | 94.5  | 93.0  | -|
+| TASN  | ResNet50  | 87.9  | 93.8  | -  | -|
+| PMG  | ResNet50  | 89.6  | 95.1  | 93.4  | -|
+| CIN  | ResNet50  | 88.1  | 94.5  | 92.8  | -|
+| API-Net  | DenseNet161  | 90.0  | 95.3  | 93.9  | 89.4 |
+| LIO  | ResNet50  | 88.0  | 94.5  | 92.7  | -|
+| TransFG  | ViT-B/16  | 91.7  | 94.8  | -  | 92.3 |
 
+------------
+## General Useful Mechanism
+### Multi-Level
+e.g.(PMG / Cross-X / MGE-CNN)
+### Multi-Scale
+e.g.(RA-CNN / MGE-CNN / NTS-Net/ TransFG(overlap-split))
 
 ------------
 ## Workshops
