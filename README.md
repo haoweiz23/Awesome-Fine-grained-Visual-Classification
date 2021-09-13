@@ -1,7 +1,14 @@
 # Awesome Fine-grained Visual Classification
 
-[TOC]
 
+[Awesome Fine-grained Visual Classification](# Awesome Fine-grained Visual Classification)
+- [Survey](#Survey)
+- [Papers](#Papers)
+- [Paper Summary](#Paper Summary)
+- [Recognition leaderboard](#Recognition leaderboard)
+- [Workshops](#Workshops)
+- [Challenges or Competitions](#Challenges or Competitions)
+- [Datasets](#Datasets)
 ------------
 
 ## Survey
@@ -56,7 +63,7 @@
 - **[RA-CNN]** Look Closer to See Better: Recurrent Attention Convolutional Neural Networkfor Fine-grained Image Recognition  **(CVPR, 2017)** [[paper](http://openaccess.thecvf.com/content_cvpr_2017/html/Fu_Look_Closer_to_CVPR_2017_paper.html "paper")]
 - **[MA-CNN]** Learning Multi-Attention Convolutional Neural Network for Fine-GrainedImage Recognition  **(ICCV, 2017)** [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zheng_Learning_Multi-Attention_Convolutional_ICCV_2017_paper.pdf "paper")]
 ------------
-## Surveys
+## Paper Summary
 ### By localize and rescale techniques
 - **[RA-CNN]** Look Closer to See Better: Recurrent Attention Convolutional Neural Networkfor Fine-grained Image Recognition  **(CVPR, 2017)** [[paper](http://openaccess.thecvf.com/content_cvpr_2017/html/Fu_Look_Closer_to_CVPR_2017_paper.html "paper")]
 - **[MA-CNN]** Learning Multi-Attention Convolutional Neural Network for Fine-GrainedImage Recognition  **(ICCV, 2017)** [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zheng_Learning_Multi-Attention_Convolutional_ICCV_2017_paper.pdf "paper")]
@@ -83,6 +90,11 @@
 - **[FFVT]** Feature Fusion Vision Transformer. **(arxiv, 2021)** [[paper](https://arxiv.org/pdf/2107.02341v2.pdf)]
 - **[TPSKG]** Transformer with Peak Suppression and Knowledge Guidance. **(arxiv, 2021)** [[paper](https://arxiv.org/pdf/2107.06538v1.pdf)]
 - **[RAMS-Trans]** RAMS-Trans: Recurrent Attention Multi-scale Transformer for Fine-grained Image Recognition. **(arxiv, 2021)** [[paper](https://arxiv.org/pdf/2107.08192v1.pdf)]
+
+### General Useful Mechanism
+- Multi-Level. (e.g., PMG / Cross-X / MGE-CNN)
+- Multi-Scale. (e.g., RA-CNN / MGE-CNN / NTS-Net/ TransFG (overlap-split) )
+
 ------------
 
 ## Recognition leaderboard
@@ -96,21 +108,14 @@
 | FDL  | DenseNet161  | 89.1  | 94.0  | -  |  84.9 |
 | NTS-Net  | ResNet50  | 87.5  | 93.9  | 91.4  | -|
 | Cross-X  | ResNet50  | 87.7  | 94.6  | -  | 88.9 |
-| S3N  | ResNet50  | 88.5  | 94.7  | 92.8  | -|
-| DCL  | ResNet50  | 87.8  | 94.5  | 93.0  | -|
-| TASN  | ResNet50  | 87.9  | 93.8  | -  | -|
-| PMG  | ResNet50  | 89.6  | 95.1  | 93.4  | -|
-| CIN  | ResNet50  | 88.1  | 94.5  | 92.8  | -|
+| S3N  | ResNet50  | 88.5  | 94.7  | 92.8  | - |
+| DCL  | ResNet50  | 87.8  | 94.5  | 93.0  | - |
+| TASN  | ResNet50  | 87.9  | 93.8  | -  | - |
+| PMG  | ResNet50  | 89.6  | 95.1  | 93.4  | - |
+| CIN  | ResNet50  | 88.1  | 94.5  | 92.8  | - |
 | API-Net  | DenseNet161  | 90.0  | 95.3  | 93.9  | 89.4 |
-| LIO  | ResNet50  | 88.0  | 94.5  | 92.7  | -|
+| LIO  | ResNet50  | 88.0  | 94.5  | 92.7  | - |
 | TransFG  | ViT-B/16  | 91.7  | 94.8  | -  | 92.3 |
-
-------------
-## General Useful Mechanism
-### Multi-Level
-e.g.(PMG / Cross-X / MGE-CNN)
-### Multi-Scale
-e.g.(RA-CNN / MGE-CNN / NTS-Net/ TransFG(overlap-split))
 
 ------------
 ## Workshops
