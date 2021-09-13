@@ -82,7 +82,9 @@
 - **[TPSKG]** Transformer with Peak Suppression and Knowledge Guidance. **(arxiv, 2021)** [[paper](https://arxiv.org/pdf/2107.06538v1.pdf)]
 - **[RAMS-Trans]** RAMS-Trans: Recurrent Attention Multi-scale Transformer for Fine-grained Image Recognition. **(arxiv, 2021)** [[paper](https://arxiv.org/pdf/2107.08192v1.pdf)]
 ------------
+
 ## Recognition leaderboard
+
 | Method  |  Backbone | CUB(%)  |  CAR(%)   |  AIR(%)   |   DOG(%)  |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
 | RA-CNN  | VGG19  | 85.3  | 92.5  | 88.4  |  87.3 |
