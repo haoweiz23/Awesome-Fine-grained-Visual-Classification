@@ -4,10 +4,10 @@
 [Awesome Fine-grained Visual Classification](# Awesome Fine-grained Visual Classification)
 - [Survey](#Survey)
 - [Papers](#Papers)
-- [Paper Summary](#Paper Summary)
-- [Recognition leaderboard](#Recognition leaderboard)
+- [Paper Summary](#Paper_Summary)
+- [Recognition leaderboard](#Recognition_leaderboard)
 - [Workshops](#Workshops)
-- [Challenges or Competitions](#Challenges or Competitions)
+- [Challenges or Competitions](#Challenges_or_Competitions)
 - [Datasets](#Datasets)
 ------------
 
