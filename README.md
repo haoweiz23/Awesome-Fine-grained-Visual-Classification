@@ -77,7 +77,7 @@
 - **[CIN]** Channel Interaction Networks for Fine-Grained Image Categorization **(AAAI, 2020)** [[paper](https://arxiv.org/pdf/2003.05235.pdf "paper")]
 - **[API-Net]** Learning Attentive Pairwise Interaction for Fine-Grained Classification **(AAAI, 2020)** [[paper](https://arxiv.org/pdf/2002.10191.pdf "paper")]
 
-### By Attention-based mertric learning
+### By Attention-based methods
 - **[RA-CNN]** Look Closer to See Better: Recurrent Attention Convolutional Neural Networkfor Fine-grained Image Recognition  **(CVPR, 2017)** [[paper](http://openaccess.thecvf.com/content_cvpr_2017/html/Fu_Look_Closer_to_CVPR_2017_paper.html "paper")]
 - **[MA-CNN]** Learning Multi-Attention Convolutional Neural Network for Fine-GrainedImage Recognition  **(ICCV, 2017)** [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zheng_Learning_Multi-Attention_Convolutional_ICCV_2017_paper.pdf "paper")]
 - **[WSBAN]** Weakly Supervised Bilinear Attention Network for Fine-Grained Visual Classification **(unknown, 2018)**  [[paper](https://link.zhihu.com/?target=https%3A//arxiv.org/pdf/1808.02152.pdf "paper")]
