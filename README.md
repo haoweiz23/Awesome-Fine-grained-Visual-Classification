@@ -12,7 +12,7 @@
 ------------
 
 ## Survey
-
+- [Fine-Grained Image Analysis with DeepLearning: A Survey (2021)](https://arxiv.org/abs/2111.06119 "Fine-Grained Image Analysis with DeepLearning: A Survey (2021)")
 - [Awesome Fine-Grained Image Analysis – Papers, Codes and Datasets](http://www.weixiushen.com/project/Awesome_FGIA/Awesome_FGIA.html "Awesome Fine-Grained Image Analysis – Papers, Codes and Datasets")
 - [Deep Learning for Fine-Grained Image Analysis: A Survey](https://arxiv.org/abs/1907.03069 "Deep Learning for Fine-Grained Image Analysis: A Survey")
 
