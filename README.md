@@ -21,6 +21,9 @@
 
 
 ## Papers
+### 2022
+- **[DCAL]** Dual Cross-Attention Learning for Fine-Grained Visual Categorization and Object Re-Identification **(CVPR, 2022)** [[paper](https://arxiv.org/abs/2205.02151)]
+
 ### 2021
 - **[FFVT]** Feature Fusion Vision Transformer. **(arxiv, 2021)** [[paper](https://arxiv.org/pdf/2107.02341v2.pdf)]
 - **[TPSKG]** Transformer with Peak Suppression and Knowledge Guidance. **(arxiv, 2021)** [[paper](https://arxiv.org/pdf/2107.06538v1.pdf)]
