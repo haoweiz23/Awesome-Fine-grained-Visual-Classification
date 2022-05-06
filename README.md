@@ -36,6 +36,7 @@
 - Neural Prototype Trees for Interpretable Fine-Grained Image Recognition **(CVPR, 2021)** [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Nauta_Neural_Prototype_Trees_for_Interpretable_Fine-Grained_Image_Recognition_CVPR_2021_paper.pdf "paper")]
 - Context-aware Attentional Pooling (CAP) for Fine-grained Visual Classification **(AAAI, 2021)**  [[paper](https://arxiv.org/pdf/2101.06635 "paper")]
 - Intra-class Part Swapping for Fine-Grained Image Classification **(WACV, 2021)** [[paper](https://openaccess.thecvf.com/content/WACV2021/papers/Zhang_Intra-Class_Part_Swapping_for_Fine-Grained_Image_Classification_WACV_2021_paper.pdf "paper")]
+- A free lunch from ViT:Adaptive Attention Multi-scale Fusion Transformer for Fine-grained Visual Recognition **(arxiv, 2021)** [[paper](https://arxiv.org/abs/2110.01240)]
 
 ### 2020
 - Interpretable and Accurate Fine-grained Recognition via Region Grouping  **(CVPR, 2020)** [[paper](http://arxiv.org/abs/2005.10411 "paper")]
