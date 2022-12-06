@@ -58,7 +58,7 @@
 -  **[MGE-CNN]** Learning a Mixture of Granularity-Specific Experts for Fine-GrainedCategorization   **(ICCV, 2019)**[[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Learning_a_Mixture_of_Granularity-Specific_Experts_for_Fine-Grained_Categorization_ICCV_2019_paper.pdf "paper")]
 
 ### 2018
-- **[MAMC]**  Multi-Attention Multi-Class Constraint forFine-grained Image Recognition **(ECCV, 2018)**[[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ming_Sun_Multi-Attention_Multi-Class_Constraint_ECCV_2018_paper.pdf "paper")]
+- **[MAMC]**  Multi-Attention Multi-Class Constraint for Fine-grained Image Recognition **(ECCV, 2018)**[[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ming_Sun_Multi-Attention_Multi-Class_Constraint_ECCV_2018_paper.pdf "paper")]
 - **[PC]** Pairwise Confusion for Fine-Grained Visual Classification **(ECCV, 2018)** [[paper](https://arxiv.org/pdf/1705.08016 "paper")]
 - **[WSBAN]** Weakly Supervised Bilinear Attention Network for Fine-Grained Visual Classification **(unknown, 2018)**  [[paper](https://link.zhihu.com/?target=https%3A//arxiv.org/pdf/1808.02152.pdf "paper")]
 - **[NTS-Net]** Learning to Navigate for Fine-grained Classification **(ECCV, 2018)** [[paper]( https://arxiv.org/abs/1809.00287 "paper")] [[code](https://github.com/yangze0930/NTS-Net)]
@@ -66,9 +66,24 @@
 ### 2017
 - **[RA-CNN]** Look Closer to See Better: Recurrent Attention Convolutional Neural Networkfor Fine-grained Image Recognition  **(CVPR, 2017)** [[paper](http://openaccess.thecvf.com/content_cvpr_2017/html/Fu_Look_Closer_to_CVPR_2017_paper.html "paper")]
 - **[MA-CNN]** Learning Multi-Attention Convolutional Neural Network for Fine-GrainedImage Recognition  **(ICCV, 2017)** [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zheng_Learning_Multi-Attention_Convolutional_ICCV_2017_paper.pdf "paper")]
+
+### 2016
+- **[C-BCNN]** Compact Bilinear Pooling **(CVPR,2016)** [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gao_Compact_Bilinear_Pooling_CVPR_2016_paper.pdf)] [[code](https://github.com/gy20073/compact_bilinear_pooling)]
+
+### 2015
+- **[BCNN]** Bilinear CNN Models for Fine-grained Visual Recognition **(ICCV,2015)** [[paper](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Lin_Bilinear_CNN_Models_ICCV_2015_paper.pdf)] [[code](http://vis-www.cs.umass.edu/bcnn/)]
+- **[Krause $et~al.$]** Bilinear CNN Models for Fine-grained Visual Recognition **(CVPR,2015)** [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Krause_Fine-Grained_Recognition_Without_2015_CVPR_paper.pdf)] 
+
+### 2014
+- **[PB RCNN]** Part-Based R-CNNs
+for Fine-Grained Category Detection **(ECCV,2014)** [[paper](https://link.springer.com/content/pdf/10.1007/978-3-319-10590-1_54.pdf)] 
+
 ------------
 ## Paper Summary
 ### By localize and rescale techniques
+- **[PB R-CNN]** Part-Based R-CNNs
+for Fine-Grained Category Detection **(ECCV,2014)** [[paper](https://link.springer.com/content/pdf/10.1007/978-3-319-10590-1_54.pdf)] 
+- **[Krause $et~al.$]** Bilinear CNN Models for Fine-grained Visual Recognition **(CVPR,2015)** [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Krause_Fine-Grained_Recognition_Without_2015_CVPR_paper.pdf)] 
 - **[RA-CNN]** Look Closer to See Better: Recurrent Attention Convolutional Neural Networkfor Fine-grained Image Recognition  **(CVPR, 2017)** [[paper](http://openaccess.thecvf.com/content_cvpr_2017/html/Fu_Look_Closer_to_CVPR_2017_paper.html "paper")]
 - **[MA-CNN]** Learning Multi-Attention Convolutional Neural Network for Fine-GrainedImage Recognition  **(ICCV, 2017)** [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zheng_Learning_Multi-Attention_Convolutional_ICCV_2017_paper.pdf "paper")]
 - **[NTS-Net]** Learning to Navigate for Fine-grained Classification **(ECCV, 2018)** [[paper]( https://arxiv.org/abs/1809.00287 "paper")] [[code](https://github.com/yangze0930/NTS-Net)]
@@ -76,6 +91,8 @@
 - **[FDL]** Filtration  and  Distillation:  Enhancing  Region  Attention  for  Fine-Grained  Visual  Categorization **(AAAI, 2020)** [[paper](https://www.aiide.org/ojs/index.php/AAAI/article/view/6822 "paper")]
 
 ### By metric learning
+- **[BCNN]** Bilinear CNN Models for Fine-grained Visual Recognition **(ICCV,2015)** [[paper](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Lin_Bilinear_CNN_Models_ICCV_2015_paper.pdf)] [[code](http://vis-www.cs.umass.edu/bcnn/)]
+- **[C-BCNN]** Compact Bilinear Pooling **(CVPR,2016)** [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gao_Compact_Bilinear_Pooling_CVPR_2016_paper.pdf)] [[code](https://github.com/gy20073/compact_bilinear_pooling)]
 - **[MAMC]**  Multi-Attention Multi-Class Constraint forFine-grained Image Recognition **(ECCV, 2018)**[[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ming_Sun_Multi-Attention_Multi-Class_Constraint_ECCV_2018_paper.pdf "paper")]
 - **[PC]** Pairwise Confusion for Fine-Grained Visual Classification **(ECCV, 2018)** [[paper](https://arxiv.org/pdf/1705.08016 "paper")]
 - **[CIN]** Channel Interaction Networks for Fine-Grained Image Categorization **(AAAI, 2020)** [[paper](https://arxiv.org/pdf/2003.05235.pdf "paper")]
@@ -105,6 +122,10 @@
 
 | Method  |  Backbone | CUB(%)  |  CAR(%)   |  AIR(%)   |   DOG(%)  |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
+| Krause $et~al.$  | CaffeNet  | 75.7  | -  | -  | - |
+| PB R-CNN  | Alex-Net  | 76.4  | -  | -  | - |
+| BCNN  | VGG16+VGG-M  | 84.1  | 91.3  | 84.1  | - |
+| C-BCNN  | VGG16  | 84.3  | 91.2  | 84.1  | - |
 | RA-CNN  | VGG19  | 85.3  | 92.5  | 88.4  |  87.3 |
 | MA-CNN  | VGG19  | 86.5  | 92.8  | 89.9  |  - |
 | MAMC  | ResNet101  | 86.5  | 93.0  | -  |  85.2 |
