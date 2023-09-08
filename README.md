@@ -23,6 +23,7 @@
 ## Papers
 ### 2023
 - **[GIST]** Generating Image-Specific Text for Fine-grained Object Classification **(Arxiv, 2023)** [[paper](https://arxiv.org/abs/2307.11315)]
+- Leveraging Vision-Language Foundation Models for Fine-Grained Downstream Tasks **(Arxiv, 2023)** [[paper](https://arxiv.org/abs/2307.06795)]
 - **[M2Former]** M2Former: Multi-Scale Patch Selection for Fine-Grained Visual Recognition **(Arxiv, 2023)** [[paper](https://arxiv.org/abs/2308.02161)]
 - **[SM-ViT]** Salient Mask-Guided Vision Transformer for Fine-Grained Classification **(VISAPP, 2023)** [[paper](https://arxiv.org/abs/2305.07102)]
 
@@ -63,7 +64,7 @@
 - Weakly Supervised Complementary Parts Models for Fine-Grained Image Classification from the Bottom Up **(CVPR, 2019)**[[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ge_Weakly_Supervised_Complementary_Parts_Models_for_Fine-Grained_Image_Classification_From_CVPR_2019_paper.pdf "paper")]
 - **[Cross-X]** Cross-X Learning for Fine-Grained Visual Categorization  **(ICCV, 2019)** [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Luo_Cross-X_Learning_for_Fine-Grained_Visual_Categorization_ICCV_2019_paper.pdf "paper")]
 - **[DCL]** Destruction and Construction Learning for Fine-grained Image Recognition **(CVPR, 2019)** [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Destruction_and_Construction_Learning_for_Fine-Grained_Image_Recognition_CVPR_2019_paper.pdf "paper")]
-- **[S3N]** Selective Sparse Sampling for Fine-grained Image Recognition  **(ICCV, 2019)** [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Ding_Selective_Sparse_Sampling_for_Fine-Grained_Image_Recognition_ICCV_2019_paper.pdf "paper")](https://github.com/Yao-DD/S3N "code")]
+- **[S3N]** Selective Sparse Sampling for Fine-grained Image Recognition  **(ICCV, 2019)** [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Ding_Selective_Sparse_Sampling_for_Fine-Grained_Image_Recognition_ICCV_2019_paper.pdf "paper")] [[code](https://github.com/Yao-DD/S3N "code")]
 -  **[MGE-CNN]** Learning a Mixture of Granularity-Specific Experts for Fine-GrainedCategorization   **(ICCV, 2019)**[[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Learning_a_Mixture_of_Granularity-Specific_Experts_for_Fine-Grained_Categorization_ICCV_2019_paper.pdf "paper")]
 -  **[DBTNet-50]**  Learning Deep Bilinear Transformation for Fine-grained Image Representation   **(NeuIPS, 2019)**[[paper](https://proceedings.neurips.cc/paper/2019/file/959ef477884b6ac2241b19ee4fb776ae-Paper.pdf)]
 
